@@ -5,7 +5,7 @@
 //  Created by garenwang on 2021/10/28.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 @class QCloudMediaInfoStream;
 @class QCloudMediaInfoStreamVideo;
 @class QCloudMediaInfoStreamAudio;

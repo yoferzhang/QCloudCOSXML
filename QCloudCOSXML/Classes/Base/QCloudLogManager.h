@@ -5,7 +5,7 @@
 //  Created by erichmzhang(张恒铭) on 2018/10/8.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 #if TARGET_OS_IOS
